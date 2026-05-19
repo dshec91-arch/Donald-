@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endSmp01.aternos.me",
+    "ip": "Spidermc01.aternos.me",
     "port": 11024,
     "version": "1.20.1",
     "try-creative": false
